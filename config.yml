@@ -68,7 +68,7 @@ params:
           imageUrl: "ac photo sq.jpg"
           imageWidth: 160   
           imageHeight: 160
-          buttons:
+  buttons:
             - name: Featured Publications
               url: papers/
             # - name: Courses
@@ -100,8 +100,8 @@ socialIcons:
 assets:
         disableHLJS: true
         disableScrollBarStyle: true
-        customCSS:
-         - css/custom-font.css
+        css:
+        - css/extra.css
 cover:
         hiddenInList: false
         hiddenInSingle: true
