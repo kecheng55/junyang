@@ -38,24 +38,24 @@ params:
     - Fira Code
    customHead: |
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Merriweather:wght@400;700&family=Fira+Code&display=swap" rel="stylesheet">
-   hideFooter: true
-   disableThemeToggle: true
-   ShowShareButtons: false
-   ShowReadingTime: false
-   disableSpecial1stPost: true
-   disableAnchoredHeadings: true
-   ShowPostNavLinks: false
-   ShowBreadCrumbs: false
-   ShowCodeCopyButtons: true
-   ShowRssButtonInSectionTermList: false
-   ShowToc: false
-   disableScrollToTop: true
-   TocOpen: true
-   ShowWordCount: false
+  hideFooter: true
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
    UseHugoToc: true
    comments: false
    math: true
-   profileMode:
+profileMode:
           enabled: true
           title: Junyang Qi
           subtitle: "Hi there! I'm Junyang, a postdoctoral researcher in the Radiology and Biomedical Imaging Department at the University of California, San Francisco, working with [Prof. Michael Evans](https://radiology.ucsf.edu/people/michael-evans/).
@@ -68,7 +68,7 @@ params:
           imageUrl: "ac photo sq.jpg"
           imageWidth: 160   
           imageHeight: 160
-    buttons:
+buttons:
             - name: Featured Publications
               url: papers/
             # - name: Courses
