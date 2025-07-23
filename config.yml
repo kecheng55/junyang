@@ -52,7 +52,7 @@ params:
   profileMode:
           enabled: true
           title: Junyang Qi
-          subtitle: "Hi there! I'm Junyang, a postdoctoral researcher in the Radiology and Biomedical Imaging Department at the University of California, San Francisco, working with [Prof. Michael Evans](https://radiology.ucsf.edu/people/michael-evans/).
+          subtitle: "Hi there! I'm Junyang, a postdoctoral researcher in the Radiology and Biomedical Imaging Department at the University of California, San Francisco, working with [<u>Prof. Michael Evans</u>](https://radiology.ucsf.edu/people/michael-evans/).
 
           <br><br>
           My research focuses on developing small-molecules, peptides, nanomedicines, and radioligands for cancer theranostics. I have extensive experience in establishing in vivo cancer models to support and develop cancer imaging (e.g., NIRF, PA, PET, SPECT) and therapeutic strategies (e.g., chemotherapy, phototherapy, radiotherapy).  
