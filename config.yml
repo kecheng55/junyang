@@ -12,7 +12,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Publications
+        - name: Featured Publications
           url: papers/
           weight: 1
         - name: Curriculum Vitae
@@ -64,7 +64,7 @@ params:
           imageWidth: 160   
           imageHeight: 160
           buttons:
-            - name: Publications
+            - name: Featured Publications
               url: papers/
             # - name: Courses
             #   url: courses/
