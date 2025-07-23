@@ -34,11 +34,11 @@ params:
     DateFormat: "January 2006"
     defaultTheme: auto
     fonts:
-    - Roboto
+    - Inter
     - Merriweather
     - Fira Code
     customHead: |
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Merriweather&family=Fira+Code&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Merriweather:wght@400;700&family=Fira+Code&display=swap" rel="stylesheet">
     hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
