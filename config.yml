@@ -21,10 +21,10 @@ menu:
         - name: LinkedIn
           url: https://linkedin.com/in/junyangqi/
           weight: 3
-        #- name: UCSF Profiles
+        - name: UCSF Profiles
           url: https://profiles.ucsf.edu/junyang.qi/
           weight: 4
-        #- name: Michael Evans' Lab
+        - name: Michael Evans' Lab
           url: https://radiology.ucsf.edu/research/labs/evans
           weight: 5
 params:
