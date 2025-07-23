@@ -46,9 +46,9 @@ params:
   disableScrollToTop: true
   TocOpen: true
   ShowWordCount: false
-   UseHugoToc: true
-   comments: false
-   math: true
+  UseHugoToc: true
+  comments: false
+  math: true
 profileMode:
           enabled: true
           title: Junyang Qi
