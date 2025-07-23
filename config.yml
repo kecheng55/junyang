@@ -85,7 +85,7 @@ params:
               url: https://profiles.ucsf.edu/junyang.qi/
             #- name: Archive
             #  url: archive/
-    socialIcons:
+socialIcons:
         - name: Email
           url: mailto:junyang.qi@ucsf.edu
         - name: Location
@@ -97,15 +97,15 @@ params:
         - name: ORCID
           url: https://orcid.org/0009-0008-8275-4426/
 
-    assets:
+assets:
         disableHLJS: true
         disableScrollBarStyle: true
         customCSS:
          - css/custom-font.css
-    cover:
+cover:
         hiddenInList: false
         hiddenInSingle: true
-    label:
+label:
       text: "Junyang Qi, PhD"
       icon: favicon.ico
       iconHeight: 18
@@ -114,10 +114,10 @@ markup:
     goldmark:
         renderer:
             unsafe: true
-    highlight:
+highlight:
         guessSyntax: true
         style: autumn 
-    tableOfContents:
+tableOfContents:
         endLevel: 2
         ordered: false
         startLevel: 2
