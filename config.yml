@@ -27,7 +27,7 @@ menu:
         - name: Michael Evans' Lab
           url: https://radiology.ucsf.edu/research/labs/evans
           weight: 5
-params:
+ params:
   description: "This website hosts Dr. Junyang Qi's research, curriculum vitae, and contact information."
   author: Name
   # googleAnalyticsID: "G-XXXXX"
@@ -36,26 +36,26 @@ params:
     - Inter
     - Merriweather
     - Fira Code
-  customHead: |
+   customHead: |
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Merriweather:wght@400;700&family=Fira+Code&display=swap" rel="stylesheet">
-  hideFooter: true
-  disableThemeToggle: true
-  ShowShareButtons: false
-  ShowReadingTime: false
-  disableSpecial1stPost: true
-  disableAnchoredHeadings: true
-  ShowPostNavLinks: false
-  ShowBreadCrumbs: false
-  ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: false
-  ShowToc: false
-  disableScrollToTop: true
-  TocOpen: true
-  ShowWordCount: false
-  UseHugoToc: true
-  comments: false
-  math: true
-  profileMode:
+   hideFooter: true
+   disableThemeToggle: true
+   ShowShareButtons: false
+   ShowReadingTime: false
+   disableSpecial1stPost: true
+   disableAnchoredHeadings: true
+   ShowPostNavLinks: false
+   ShowBreadCrumbs: false
+   ShowCodeCopyButtons: true
+   ShowRssButtonInSectionTermList: false
+   ShowToc: false
+   disableScrollToTop: true
+   TocOpen: true
+   ShowWordCount: false
+   UseHugoToc: true
+   comments: false
+   math: true
+   profileMode:
           enabled: true
           title: Junyang Qi
           subtitle: "Hi there! I'm Junyang, a postdoctoral researcher in the Radiology and Biomedical Imaging Department at the University of California, San Francisco, working with [Prof. Michael Evans](https://radiology.ucsf.edu/people/michael-evans/).
@@ -68,7 +68,7 @@ params:
           imageUrl: "ac photo sq.jpg"
           imageWidth: 160   
           imageHeight: 160
-  buttons:
+    buttons:
             - name: Featured Publications
               url: papers/
             # - name: Courses
@@ -85,7 +85,7 @@ params:
               url: https://profiles.ucsf.edu/junyang.qi/
             #- name: Archive
             #  url: archive/
-socialIcons:
+ socialIcons:
         - name: Email
           url: mailto:junyang.qi@ucsf.edu
         - name: Location
@@ -97,27 +97,27 @@ socialIcons:
         - name: ORCID
           url: https://orcid.org/0009-0008-8275-4426/
 
-assets:
+ assets:
         disableHLJS: true
         disableScrollBarStyle: true
         css:
         - css/extra.css
-cover:
+ cover:
         hiddenInList: false
         hiddenInSingle: true
-label:
+ label:
       text: "Junyang Qi, PhD"
       icon: favicon.ico
       iconHeight: 18
 
-markup:
+ markup:
     goldmark:
         renderer:
             unsafe: true
-highlight:
+ highlight:
         guessSyntax: true
         style: autumn 
-tableOfContents:
+ tableOfContents:
         endLevel: 2
         ordered: false
         startLevel: 2
