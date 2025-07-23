@@ -50,10 +50,20 @@ params:
           imageWidth: 200
           imageHeight: 200
           buttons:
-        - name: Publications
+            - name: Publications
               url: papers/
-         - name: Curriculum Vitae
-             url: CV - Junyang Qi.pdf
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+           # - name: Newsletter
+           #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            - name: Resume
+              url: CV - Junyang Qi.pdf
+            #- name: Archive
+            #  url: archive/
     socialIcons:
         - name: Email
           url: mailto:junyang.qi@ucsf.edu
