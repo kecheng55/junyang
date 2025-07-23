@@ -16,8 +16,8 @@
     --code-block-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
-    --darkcolor: #6a7ba2;
-    --lightcolor: #cbd1de;
+    --darkcolor: #40e0d0;
+    --lightcolor: theme-vars.css;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
