@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://junyangqi.com/" 
 title: Junyang Qi, PhD
 theme: PaperMod
 
@@ -50,47 +50,23 @@ params:
           imageWidth: 200
           imageHeight: 200
           buttons:
-             - name: Publications
+            - name: Publications
               url: papers/
-            # - name: Courses
-            #   url: courses/
-            # - name: Data
-            #   url: data/
-           # - name: Newsletter
-           #   url: https://pmichaillat.substack.com
             - name: UCSF Profiles
-             url: https://profiles.ucsf.edu/junyang.qi
+             url: https://profiles.ucsf.edu/junyang.qi/
             - name: Curriculum Vitae
-             url: CV - Junyang Qi.pdf   
-            #- name: Archive
-            #  url: archive/
+             url: CV - Junyang Qi.pdf/
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:junyang.qi@ucsf.edu
-       # - name: Zoom
-       #  url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
-       # - name: Office Hours
-       #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=GwDnwrwAAAAJ&hl=en
-       # - name: GitHub
-       #   url: https://github.com/pmichaillat
-       # - name: Substack
-        #  url: https://pmichaillat.substack.com
-      #  - name: YouTube
-      #    url: https://www.youtube.com/@pmichaillat
-      #  - name: Twitter
-      #    url: https://x.com/pmichaillat
-      # - name: Bluesky
-      #    url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://scholar.google.com/citations?user=GwDnwrwAAAAJ&hl=en/
         - name: LinkedIn
-          url: https://linkedin.com/in/junyang.qi
+          url: https://linkedin.com/in/junyang.qi/
         - name: ORCID
-          url: https://orcid.org/0009-0008-8275-4426
+          url: https://orcid.org/0009-0008-8275-4426/
 
     assets:
         disableScrollBarStyle: true
