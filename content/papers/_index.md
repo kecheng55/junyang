@@ -1,4 +1,4 @@
 ---
 title: "Papers"
-description: "Preprints and articles by Junyang Qi, PhD."
+description: "Preprints and articles"
 ---
