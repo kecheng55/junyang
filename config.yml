@@ -52,8 +52,6 @@ params:
           buttons:
             - name: Publications
               url: papers/
-            - name: Home
-             url: https://profiles.ucsf.edu/junyang.qi/
             - name: Curriculum Vitae
              url: CV - Junyang Qi.pdf/
     socialIcons:
