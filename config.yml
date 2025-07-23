@@ -32,7 +32,7 @@ params:
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: auto
     hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
