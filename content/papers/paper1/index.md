@@ -1,9 +1,14 @@
 ---
 title: "Heterobifunctional PEG-grafted black phosphorus quantum dots: “Three-in-One” nanoplatforms for mitochondria-targeted photothermal cancer therapy" 
-date: 2021-03-01
+#date: 2021-03-01
 tags: ["Mitochondria-Target", "Black Phosphorus Quantum Dots", "Photothermal Therapy", "Cancer Theranostics"]
 author: ["Junyang Qi", "Yue Xiong", "Ke Cheng", "Qi Huang", "Jingxiu Cao", "Fumei He", "Lin Mei", "Gan Liu", "Wenbin Deng"]
-description: "It is still a challenge for black phosphorus quantum dots (BPQDs) to offer real benefits because of their poor stability and dispersibility. Here, the authors report a BPQDs-based “three-in-one” nano-platform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
+description: "It is still a challenge for black phosphorus quantum dots (BPQDs) to offer real benefits because of their poor stability and dispersibility. Here, the authors report a BPQDs-based “three-in-one” nanoplatform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
+summary: "We report a BPQDs-based “three-in-one” nanoplatform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
+cover:
+    image: "ajps.png"
+    alt: "phosphorus quantum dots for targeted photothermal cancer therapy"
+    relative: false
 editPost:
     URL: "https://www.sciencedirect.com/journal/asian-journal-of-pharmaceutical-sciences"
     Text: "Asian Journal of Pharmaceutical Sciences"
@@ -28,7 +33,7 @@ Black phosphorus (BP) nano-materials, especially BP quantum dots (BPQDs), perfor
 
 ##### Graphic abstract
 
-![](ajps1.jpg)
+![](ajps.png)
 
 ---
 
