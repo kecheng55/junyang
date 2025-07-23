@@ -5,7 +5,7 @@ tags: ["Mitochondria-Target", "Black Phosphorus Quantum Dots", "Photothermal The
 author: ["Junyang Qi", "Yue Xiong", "Ke Cheng", "Qi Huang", "Jingxiu Cao", "Fumei He", "Lin Mei", "Gan Liu", "Wenbin Deng"]
 description: "It is still a challenge for black phosphorus quantum dots (BPQDs) to offer real benefits because of their poor stability and dispersibility. Here, the authors report a BPQDs-based “three-in-one” nano-platform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
 cover:
-    image: "paper1.png"
+    image: "ajps.jpg"
     alt: "Black phosphorus quantum dots nano-platforms for mitochondria-targeted photothermal cancer therapy"
     relative: true
 editPost:
@@ -18,8 +18,9 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
++ [PDF](ajps.pdf)
++ [ScienceDirect](https://doi.org/10.1016/j.ajps.2020.09.001)
++ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33995616/)
 
 ---
 
@@ -29,9 +30,9 @@ Black phosphorus (BP) nano-materials, especially BP quantum dots (BPQDs), perfor
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Graphic abstract
 
-![](paper1.png)
+![](ajps1.jpg)
 
 ---
 
