@@ -49,7 +49,7 @@ params:
   UseHugoToc: true
   comments: false
   math: true
-profileMode:
+  profileMode:
           enabled: true
           title: Junyang Qi
           subtitle: "Hi there! I'm Junyang, a postdoctoral researcher in the Radiology and Biomedical Imaging Department at the University of California, San Francisco, working with [Prof. Michael Evans](https://radiology.ucsf.edu/people/michael-evans/).
@@ -62,7 +62,7 @@ profileMode:
           imageUrl: "ac photo sq.jpg"
           imageWidth: 160   
           imageHeight: 160
-buttons:
+          buttons:
             - name: Featured Publications
               url: papers/
             # - name: Courses
@@ -79,7 +79,7 @@ buttons:
               url: https://profiles.ucsf.edu/junyang.qi/
             #- name: Archive
             #  url: archive/
-socialIcons:
+  socialIcons:
         - name: Email
           url: mailto:junyang.qi@ucsf.edu
         - name: Location
@@ -91,22 +91,21 @@ socialIcons:
         - name: ORCID
           url: https://orcid.org/0009-0008-8275-4426/
 
-assets:
+  assets:
         disableHLJS: true
         disableScrollBarStyle: true
-cover:
+  cover:
         hiddenInList: false
         hiddenInSingle: true
-label:
+  label:
       text: "Junyang Qi, PhD"
       icon: favicon.ico
       iconHeight: 18
-
 markup:
     goldmark:
         renderer:
             unsafe: true
-highlight:
+    highlight:
         guessSyntax: true
         style: autumn 
 tableOfContents:
