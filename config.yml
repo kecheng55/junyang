@@ -1,5 +1,5 @@
 baseURL: "https://junyangqi.com/" 
-title: Junyang Qi, PhD
+title: Junyang Qi
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -18,6 +18,12 @@ menu:
         - name: Curriculum Vitae
           url: CV - Junyang Qi.pdf
           weight: 2
+        - name: LinkedIn
+          url: https://linkedin.com/in/junyangqi/
+          weight: 3
+        - name: UCSF Profiles
+          url: https://profiles.ucsf.edu/junyang.qi/
+          weight: 4
 params:
     description: "This website hosts Dr. Junyang Qi's research, curriculum vitae, and contact information."
     author: Junyang Qi, PhD
