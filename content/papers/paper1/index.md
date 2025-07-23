@@ -39,6 +39,6 @@ Black phosphorus (BP) nano-materials, especially BP quantum dots (BPQDs), perfor
 
 ##### Citation
 
-**Qi, J.**; Xiong, Y.; Cheng, K.; Huang, Q.; Cao, J.; He, F.; Mei, L.; Liu, G.; Deng, W., Heterobifunctional PEG‑grafted black phosphorus quantum dots: "Three‑in‑One" nanoplatforms for mitochondria‑targeted photothermal cancer therapy. **Asian J. Pharm. Sci.** _2021_, 16 (2), 222‑235.
+**Qi, J.**; Xiong, Y.; Cheng, K.; Huang, Q.; Cao, J.; He, F.; Mei, L.; Liu, G.; Deng, W., Heterobifunctional PEG‑grafted black phosphorus quantum dots: "Three‑in‑One" nanoplatforms for mitochondria‑targeted photothermal cancer therapy. **_Asian J. Pharm. Sci._** 2021, 16 (2), 222‑235.
 
 ---
