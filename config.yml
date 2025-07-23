@@ -32,12 +32,6 @@ params:
   author: Name
   # googleAnalyticsID: "G-XXXXX"
   DateFormat: "January 2006"
-  fonts:
-    - Inter
-    - Merriweather
-    - Fira Code
-   customHead: |
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Merriweather:wght@400;700&family=Fira+Code&display=swap" rel="stylesheet">
   hideFooter: true
   disableThemeToggle: true
   ShowShareButtons: false
@@ -100,8 +94,6 @@ buttons:
  assets:
         disableHLJS: true
         disableScrollBarStyle: true
-        css:
-        - css/extra.css
  cover:
         hiddenInList: false
         hiddenInSingle: true
