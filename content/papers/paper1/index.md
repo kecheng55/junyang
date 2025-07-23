@@ -5,7 +5,7 @@ tags: ["Mitochondria-Target", "Black Phosphorus Quantum Dots", "Photothermal The
 author: ["Junyang Qi", "Yue Xiong", "Ke Cheng", "Qi Huang", "Jingxiu Cao", "Fumei He", "Lin Mei", "Gan Liu", "Wenbin Deng"]
 description: "It is still a challenge for black phosphorus quantum dots (BPQDs) to offer real benefits because of their poor stability and dispersibility. Here, the authors report a BPQDs-based “three-in-one” nano-platform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
 cover:
-    image: "ajps.jpg"
+    image: "ajps2.jpg"
     alt: "Black phosphorus quantum dots nano-platforms for mitochondria-targeted photothermal cancer therapy"
     relative: true
 editPost:
