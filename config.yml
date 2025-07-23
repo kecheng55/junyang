@@ -37,6 +37,8 @@ params:
     - Roboto
     - Merriweather
     - Fira Code
+    customHead: |
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Merriweather&family=Fira+Code&display=swap" rel="stylesheet">
     hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
