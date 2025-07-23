@@ -2,7 +2,7 @@
 title: "Location"
 date: 2025-07-23
 hidemeta: true
-description: "Dr. Junyang Qi's mailing and office addresses at UCSF"
+description: "Junyang's mailing and office addresses at UCSF"
 
 ---
 
@@ -10,9 +10,9 @@ description: "Dr. Junyang Qi's mailing and office addresses at UCSF"
 
 #### Mailing address
 
-Junyang Qi, PhD
-600 16th St. Genentech Hall Box 2280
-San Francisco, CA 94143
+Junyang Qi, PhD  
+600 16th St. Genentech Hall Box 2280  
+San Francisco, CA 94143  
 
 
 
@@ -20,11 +20,10 @@ San Francisco, CA 94143
 
 #### Office address
 
-600 16th St. Genentech Hall Room 574
-Department of Radiology and Biomedical Imaging
-School of Medicine
-University of California, San Francisco
-
+600 16th St. Genentech Hall Room 574  
+Department of Radiology and Biomedical Imaging  
+School of Medicine  
+University of California, San Francisco  
 
 ---
 
