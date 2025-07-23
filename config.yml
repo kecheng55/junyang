@@ -33,6 +33,10 @@ params:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: auto
+    fonts:
+    - Roboto
+    - Merriweather
+    - Fira Code
     hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
@@ -95,6 +99,8 @@ params:
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
+        customCSS:
+         - css/custom-font.css
     cover:
         hiddenInList: false
         hiddenInSingle: true
