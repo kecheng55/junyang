@@ -50,10 +50,10 @@ params:
           imageWidth: 200
           imageHeight: 200
           buttons:
-            - name: Publications
+        - name: Publications
               url: papers/
-            - name: Curriculum Vitae
-             url: CV - Junyang Qi.pdf/
+         - name: Curriculum Vitae
+             url: CV - Junyang Qi.pdf
     socialIcons:
         - name: Email
           url: mailto:junyang.qi@ucsf.edu
