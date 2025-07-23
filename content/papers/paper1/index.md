@@ -6,7 +6,7 @@ author: ["Junyang Qi", "Yue Xiong", "Ke Cheng", "Qi Huang", "Jingxiu Cao", "Fume
 description: "It is still a challenge for black phosphorus quantum dots (BPQDs) to offer real benefits because of their poor stability and dispersibility. Here, the authors report a BPQDs-based “three-in-one” nanoplatform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
 summary: "We report a BPQDs-based “three-in-one” nanoplatform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
 cover:
-    image: "ajps.png"
+    image: "/ajps.png"
     alt: "phosphorus quantum dots for targeted photothermal cancer therapy"
     relative: false
 editPost:
