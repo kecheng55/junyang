@@ -27,7 +27,7 @@ menu:
         - name: Michael Evans' Lab
           url: https://radiology.ucsf.edu/research/labs/evans
           weight: 5
- params:
+params:
   description: "This website hosts Dr. Junyang Qi's research, curriculum vitae, and contact information."
   author: Name
   # googleAnalyticsID: "G-XXXXX"
