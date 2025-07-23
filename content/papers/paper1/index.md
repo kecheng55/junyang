@@ -1,7 +1,7 @@
 ---
 title: "Heterobifunctional PEG-grafted black phosphorus quantum dots: “Three-in-One” nano-platforms for mitochondria-targeted photothermal cancer therapy" 
 date: 2021-03-1
-tags: ["Mitochondria-target","Black phosphorus quantum dots","Photothermal therapy","Cancer Theranostics"]
+tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Junyang Qi", "Yue Xiong", "Ke Cheng", 'Qi Huang", "Jingxiu Cao", 'Fumei He", "Lin Mei", "Gan Liu", "Wenbin Deng"]
 description: "It is still a challenge for black phosphorus quantum dots (BPQDs) to offer real benefits because of their poor stability and dispersibility. Here, the authors report a BPQDs-based “three-in-one” nano-platform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
 cover:
@@ -64,8 +64,3 @@ abstract = {Black phosphorus (BP) nano-materials, especially BP quantum dots (BP
 ```
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
