@@ -1,5 +1,5 @@
 ---
-title: "Heterobifunctional PEG-grafted black phosphorus quantum dots: "Three-in-One" nanoplatforms for mitochondria-targeted photothermal cancer therapy" 
+title: "Heterobifunctional PEG-grafted black phosphorus quantum dots: “Three-in-One” nanoplatforms for mitochondria-targeted photothermal cancer therapy" 
 date: 2021-03-01
 tags: ["Mitochondria-Target", "Black Phosphorus Quantum Dots", "Photothermal Therapy", "Cancer Theranostics"]
 author: ["Junyang Qi", "Yue Xiong", "Ke Cheng", "Qi Huang", "Jingxiu Cao", "Fumei He", "Lin Mei", "Gan Liu", "Wenbin Deng"]
