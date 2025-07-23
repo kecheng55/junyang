@@ -7,7 +7,7 @@ description: "This study develops a GSH-activated, cancer-targeting nano-photose
 summary: "This study develops a GSH-activated, cancer-targeting nano-photosensitizer (MBNPs) based on methylene blue. MBNPs enable precise, effective, and safe photodynamic therapy (PDT) guided by fluorescence and photoacoustic imaging. This all-in-one platform shows strong potential for future clinical cancer treatment." 
 cover:
     image: "/biom.png"
-    alt: "Self-assembled nano-photosensitizer for targeted, activatable, and biosafe cancer phototheranostics"
+    alt: "Self-assembled nano-photosensitizer for cancer phototheranostics"
     relative: false
 editPost:
     URL: "https://www.sciencedirect.com/journal/biomaterials"
