@@ -62,6 +62,8 @@ params:
             #   url: tags/
             - name: Resume
               url: CV - Junyang Qi.pdf
+            - name: UCSF Profiles
+              url: https://profiles.ucsf.edu/ke.cheng/
             #- name: Archive
             #  url: archive/
     socialIcons:
