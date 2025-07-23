@@ -15,11 +15,9 @@ editPost:
 
 ---
 
-##### Download
+##### Graphic abstract
 
-+ [PDF](biom.pdf)
-+ [ScienceDirect](https://doi.org/10.1016/j.biomaterials.2022.121916)
-+ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36410110/)
+![](biom.png)
 
 ---
 
@@ -29,16 +27,18 @@ Cancer treatment currently still faces crucial challenges in therapeutic effecti
 
 ---
 
-##### Graphic abstract
+##### Download
 
-![](biom.png)
++ [PDF](biom.pdf)
++ [ScienceDirect](https://doi.org/10.1016/j.biomaterials.2022.121916)
++ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36410110/)
 
 ---
 
 ##### Citation
 
-Cheng, K.#; Qi, J.#; Zhang, J.; Li, H.; Ren, X.; Wei, W.; Meng, L.; Li, J.; Li, Q.; Zhang, H.; Deng, W.; Sun, H.; Mei, L., Self‑
-assembled nano‑photosensitizer for targeted, activatable, and biosafe cancer phototheranostics. **Biomaterials** _2022_,
+Cheng, K.#; **Qi, J.**#; Zhang, J.; Li, H.; Ren, X.; Wei, W.; Meng, L.; Li, J.; Li, Q.; Zhang, H.; Deng, W.; Sun, H.; Mei, L., Self‑
+assembled nano‑photosensitizer for targeted, activatable, and biosafe cancer phototheranostics. **_Biomaterials_** 2022,
 291, 121916.
 
 ---
