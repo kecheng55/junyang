@@ -60,7 +60,7 @@ params:
            #   url: https://pmichaillat.substack.com
             # - name: Tags
             #   url: tags/
-            - name: Resume
+            - name: CV
               url: CV - Junyang Qi.pdf
             - name: UCSF Profiles
               url: https://profiles.ucsf.edu/ke.cheng/
