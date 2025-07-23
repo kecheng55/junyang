@@ -7,7 +7,7 @@ description: "It is still a challenge for black phosphorus quantum dots (BPQDs) 
 cover:
     image: "ajps.png"
     alt: "Black phosphorus quantum dots nano-platforms for mitochondria-targeted photothermal cancer therapy"
-    relative: true
+    relative: false
 editPost:
     URL: "https://www.sciencedirect.com/journal/asian-journal-of-pharmaceutical-sciences"
     Text: "Asian Journal of Pharmaceutical Sciences"
