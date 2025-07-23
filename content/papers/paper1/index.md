@@ -1,17 +1,16 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Heterobifunctional PEG-grafted black phosphorus quantum dots: “Three-in-One” nano-platforms for mitochondria-targeted photothermal cancer therapy" 
+date: 2021-03-1
+tags: ["Mitochondria-target","Black phosphorus quantum dots","Photothermal therapy","Cancer Theranostics"]
+author: ["Junyang Qi", "Yue Xiong", "Ke Cheng", 'Qi Huang", "Jingxiu Cao", 'Fumei He", "Lin Mei", "Gan Liu", "Wenbin Deng"]
+description: "It is still a challenge for black phosphorus quantum dots (BPQDs) to offer real benefits because of their poor stability and dispersibility. Here, the authors report a BPQDs-based “three-in-one” nano-platform with enhanced stability, dispersibility and mitochondria targeting for photothermal cancer therapy through simple heterobifunctional PEG grafting." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "Black phosphorus quantum dots nano-platforms for mitochondria-targeted photothermal cancer therapy"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://doi.org/10.1016/j.ajps.2020.09.001"
+    Text: "Asian Journal of Pharmaceutical Sciences"
 
 ---
 
@@ -21,13 +20,12 @@ editPost:
 
 + [Paper](paper1.pdf)
 + [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Black phosphorus (BP) nano-materials, especially BP quantum dots (BPQDs), performs outstanding photothermal antitumor effects, excellent biocompatibility and biodegradability. However, there are several challenges to overcome before offering real benefits, such as poor stability, poor dispersibility as well as difficulty in tailoring other functions. Here, a “three-in-one” mitochondria-targeted BP nano-platform, called as BPQD-PEG-TPP, was designed. In this nano-platform, BPQDs were covalently grafted with a heterobifunctional PEG, in which one end was an aryl diazo group capable of reacting with BPQDs to form a covalent bond and the other end was a mitochondria-targeted triphenylphosphine (TPP) group. In addition to its excellent near-infrared photothermal properties, BPQD-PEG-TPP had much enhanced stability and dispersibility under physiological conditions, efficient mitochondria targeting and promoted ROS production through a photothermal effect. Both in vitro and in vivo experiments demonstrated that BPQD-PEG-TPP performed much superior photothermal cytotoxicity than BPQDs and BPQD-PEG as the mitochondria targeted PTT. Thus this “three-in-one” nanoplatform fabricated through polymer grafting, with excellent stability, dispersibility and negligible side effects, might be a promising strategy for mitochondria-targeted photothermal cancer therapy.
 
 ---
 
@@ -39,18 +37,30 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Junyang Qi, Yue Xiong, Ke Cheng, Qi Huang, Jingxiu Cao, Fumei He, Lin Mei, Gan Liu, Wenbin Deng,
+Heterobifunctional PEG-grafted black phosphorus quantum dots: “Three-in-One” nano-platforms for mitochondria-targeted photothermal cancer therapy,
+Asian Journal of Pharmaceutical Sciences,
+Volume 16, Issue 2,
+2021,
+Pages 222-235,
+ISSN 1818-0876,
+https://doi.org/10.1016/j.ajps.2020.09.001.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{QI2021222,
+title = {Heterobifunctional PEG-grafted black phosphorus quantum dots: “Three-in-One” nano-platforms for mitochondria-targeted photothermal cancer therapy},
+journal = {Asian Journal of Pharmaceutical Sciences},
+volume = {16},
+number = {2},
+pages = {222-235},
+year = {2021},
+issn = {1818-0876},
+doi = {https://doi.org/10.1016/j.ajps.2020.09.001},
+url = {https://www.sciencedirect.com/science/article/pii/S1818087620303287},
+author = {Junyang Qi and Yue Xiong and Ke Cheng and Qi Huang and Jingxiu Cao and Fumei He and Lin Mei and Gan Liu and Wenbin Deng},
+keywords = {Mitochondria-target, Black phosphorus quantum dots, Photothermal therapy, Heterobifunctional PEG, Three-in-one},
+abstract = {Black phosphorus (BP) nano-materials, especially BP quantum dots (BPQDs), performs outstanding photothermal antitumor effects, excellent biocompatibility and biodegradability. However, there are several challenges to overcome before offering real benefits, such as poor stability, poor dispersibility as well as difficulty in tailoring other functions. Here, a “three-in-one” mitochondria-targeted BP nano-platform, called as BPQD-PEG-TPP, was designed. In this nano-platform, BPQDs were covalently grafted with a heterobifunctional PEG, in which one end was an aryl diazo group capable of reacting with BPQDs to form a covalent bond and the other end was a mitochondria-targeted triphenylphosphine (TPP) group. In addition to its excellent near-infrared photothermal properties, BPQD-PEG-TPP had much enhanced stability and dispersibility under physiological conditions, efficient mitochondria targeting and promoted ROS production through a photothermal effect. Both in vitro and in vivo experiments demonstrated that BPQD-PEG-TPP performed much superior photothermal cytotoxicity than BPQDs and BPQD-PEG as the mitochondria targeted PTT. Thus this “three-in-one” nanoplatform fabricated through polymer grafting, with excellent stability, dispersibility and negligible side effects, might be a promising strategy for mitochondria-targeted photothermal cancer therapy.}
+}
 ```
 
 ---
