@@ -44,9 +44,13 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Junyang Qi, PhD
-          subtitle: "I am a Postdoctoral Scholar in the Department of Radiology and Biomedical Imaging at the University of California, San Francisco.   
-          My research focuses on developing small-molecules, peptides, nanomedicines, and radioligands for cancer theranostics. I have extensive experience in establishing in vivo cancer models to support cancer imaging (e.g., NIRF, PA, PET, SPECT) and therapeutic strategies (e.g., chemotherapy, phototherapy, radiotherapy).  
+          title: Junyang Qi
+          subtitle: "Hi there! I'm Junyang, a postdoctoral researcher in the Radiology and Biomedical Imaging Department at the University of California, San Francisco, working with [Prof. Michael Evans](https://radiology.ucsf.edu/people/michael-evans/)
+
+          <br><br>
+          My research focuses on developing small-molecules, peptides, nanomedicines, and radioligands for cancer theranostics. I have extensive experience in establishing in vivo cancer models to support and develop cancer imaging (e.g., NIRF, PA, PET, SPECT) and therapeutic strategies (e.g., chemotherapy, phototherapy, radiotherapy).  
+
+          <br><br>
           I earned my PhD in medicinal chemistry from Sun Yat-sen University in 2021 under the supervision of Prof. Wenbin Deng, followed by two years of postdoctoral training. In 2024, I joined the Evans Lab at UCSF to expand my work into radiotherapeutics, focusing on the development of radiolabeled ligands and probes for precision cancer theranostics."
           imageUrl: "ac photo sq.jpg"
           imageWidth: 160   
