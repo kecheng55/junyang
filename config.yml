@@ -24,6 +24,9 @@ menu:
         - name: UCSF Profiles
           url: https://profiles.ucsf.edu/junyang.qi/
           weight: 4
+        - name: The Evans' Lab
+          url: https://radiology.ucsf.edu/research/labs/evans
+          weight: 5
 params:
     description: "This website hosts Dr. Junyang Qi's research, curriculum vitae, and contact information."
     author: Junyang Qi, PhD
