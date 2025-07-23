@@ -19,12 +19,12 @@ menu:
           url: CV - Junyang Qi.pdf
           weight: 2
 params:
-    description: "This website hosts Dr. Junyang Qi's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Dr. Junyang Qi's research, curriculum vitae, and contact information."
     author: Junyang Qi, PhD
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
