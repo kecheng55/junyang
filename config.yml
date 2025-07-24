@@ -16,7 +16,7 @@ menu:
           url: papers/
           weight: 1
         - name: Posts
-          url: /content/posts/
+          url: data/
           weight: 2
         - name: Curriculum Vitae
           url: CV - Junyang Qi.pdf
@@ -69,9 +69,7 @@ params:
             - name: Featured Publications
               url: papers/
             - name: News
-              url: Posts/
-            # - name: Data
-            #   url: data/
+              url: data/
            # - name: Newsletter
            #   url: https://pmichaillat.substack.com
             # - name: Tags
