@@ -1,4 +1,4 @@
 ---
-title: "Posts"
+title: "Data"
 description: "News and Posts."
 ---
