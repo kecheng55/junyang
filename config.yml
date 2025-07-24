@@ -16,7 +16,7 @@ menu:
           url: papers/
           weight: 1
         - name: Posts
-          url: data/
+          url: data1/
           weight: 2
         - name: Curriculum Vitae
           url: CV - Junyang Qi.pdf
