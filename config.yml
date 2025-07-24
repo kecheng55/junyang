@@ -68,7 +68,7 @@ params:
           buttons:
             - name: Featured Publications
               url: papers/
-            - name: News
+            - name: Posts
               url: posts/
            # - name: Newsletter
            #   url: https://pmichaillat.substack.com
