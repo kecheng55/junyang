@@ -75,20 +75,17 @@ pre:hover .copy-code {
     display: block;
 }
 
-/* === Font Imports === */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Serif:wght@400;600&family=IBM+Plex+Mono&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-/* === Typography Settings === */
 body {
-  font-family: "IBM Plex Sans", sans-serif;
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
 }
 
-h1, h2, h3, h4 {
-  font-family: "IBM Plex Serif", serif;
+h1, h2, h3, h4, h5, h6, nav {
+    font-weight: 600;
 }
 
-code, pre {
-  font-family: "IBM Plex Mono", monospace;
-}
-}
 
