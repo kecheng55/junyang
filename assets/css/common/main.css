@@ -76,23 +76,19 @@ pre:hover .copy-code {
 }
 
 /* === Font Imports === */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Poppins:wght@500;700&family=JetBrains+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Serif:wght@400;600&family=IBM+Plex+Mono&display=swap" rel="stylesheet');
 
 /* === Typography Settings === */
 body {
-  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: var(--textsize);
-  line-height: var(--lineheight);
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', 'Noto Sans', sans-serif;
-  font-weight: 600;
-  letter-spacing: 0.02em;
+h1, h2, h3, h4 {
+  font-family: "IBM Plex Serif", serif;
 }
 
-code, pre, kbd, samp {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 0.95em;
+code, pre {
+  font-family: "IBM Plex Mono", monospace;
+}
 }
 
