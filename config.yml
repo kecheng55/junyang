@@ -69,7 +69,7 @@ params:
             - name: Featured Publications
               url: papers/
             - name: News
-              url: data/
+              url: posts/
            # - name: Newsletter
            #   url: https://pmichaillat.substack.com
             # - name: Tags
