@@ -32,7 +32,7 @@ menu:
           weight: 6
 params:
   description: "This website hosts Dr. Junyang Qi's research, curriculum vitae, and contact information."
-  author: Name
+  author: 
   # googleAnalyticsID: "G-XXXXX"
   DateFormat: "January 2006"
   hideFooter: true
