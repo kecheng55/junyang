@@ -15,18 +15,21 @@ menu:
         - name: Featured Publications
           url: papers/
           weight: 1
+        - name: Posts
+          url: Posts/
+          weight: 2
         - name: Curriculum Vitae
           url: CV - Junyang Qi.pdf
-          weight: 2
+          weight: 3
         - name: LinkedIn
           url: https://linkedin.com/in/junyangqi/
-          weight: 3
+          weight: 4
         - name: UCSF Profiles
           url: https://profiles.ucsf.edu/junyang.qi/
-          weight: 4
+          weight: 5
         - name: Michael Evans' Lab
           url: https://radiology.ucsf.edu/research/labs/evans
-          weight: 5
+          weight: 6
 params:
   description: "This website hosts Dr. Junyang Qi's research, curriculum vitae, and contact information."
   author: Name
@@ -65,8 +68,8 @@ params:
           buttons:
             - name: Featured Publications
               url: papers/
-            # - name: Courses
-            #   url: courses/
+            - name: News
+              url: Posts/
             # - name: Data
             #   url: data/
            # - name: Newsletter
