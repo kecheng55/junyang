@@ -64,7 +64,9 @@ params:
           I earned my PhD in medicinal chemistry from Sun Yat-sen University in 2021 under the supervision of Prof. Wenbin Deng, followed by two years of postdoctoral training. In 2024, I joined the Evans Lab at UCSF to expand my work into radiotherapeutics, focusing on the development of radiolabeled ligands and probes for precision cancer theranostics.
            
           <br><br>
-          Feel free to contact me via email: <b>jqi@junyangqi.com</b> or junyang.qi@ucsf.edu"
+          Feel free to contact me via email: 
+          <span style='color:#1e40af; font-weight:bold;'>jqi@junyangqi.com</span> or 
+          <span style='color:#1e40af; font-weight:bold;'>junyang.qi@ucsf.edu</span>"
   
           imageUrl: "ac photo sq.jpg"
           imageWidth: 160   
