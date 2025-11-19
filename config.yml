@@ -81,7 +81,7 @@ params:
             # - name: Tags
             #   url: tags/
             - name: CV
-              url: CV - Junyang Qi.pdf
+              url: CV - Junyang Qi - Dec 2025.pdf
             - name: UCSF Profiles
               url: https://profiles.ucsf.edu/junyang.qi/
             #- name: Archive
